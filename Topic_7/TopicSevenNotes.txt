@@ -1,0 +1,6 @@
+While loop like python.... Also got nested loops ...
+
+do - while this will confirm print it once before it reads the while func so even if the while is not achieved it will still do. #7.1
+do - while is out of SYLLABUS ********
+
+Nested loops work like python nested loops #7.2

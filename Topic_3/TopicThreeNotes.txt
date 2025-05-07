@@ -1,0 +1,20 @@
+----------------------------------- Lesson 4 -----------------------------------
+#Defining a function in js #3.1
+function fnname(paremeters,a,b,c) {
+    console.log('this is a function')
+}
+
+calling a function
+fnname()
+
+parameters are js place holders in js #3.2
+
+you can also have default parameters in js #3.3
+
+fstring from python console.log(`this is a fstring ${fstring})
+
+js dont work with name parameters #3.4
+
+random number generator please check the code.
+
+for js u need to use an arry to return 2 values. #3.5

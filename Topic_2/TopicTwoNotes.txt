@@ -1,0 +1,80 @@
+----------------------------------- Lesson 3 -----------------------------------
+Data Types #1.1
+Primative                Refrence
+- Number                  - Object
+- String                  - Array(Python List)
+- Boolean
+- Null
+- Undefined
+- Symbol (Uidd fom GI)
+
+Numeric Operators (like python)
++ is plus
+- is minus
+* is times
+** is power (Evaulated from right to left) ********************IMPTTTTTT
+% is modulo with negative numbers ( Remainder )
+    Usecases
+    - Odd or even checker.
+    - Check if its divisible by another number.
+/ is division
+
+Shorthand Operators (like python) #2.2
++= means in var editing i=i+1
+-= means in var editing i=i-1
+*= means in var editing i=i*1
+/= means in var editing i=i/1
+%= means in var editing i=i%1
+**= means in var editing i=i**1
+
+Increment and Decrement Operator #2.3
+c:\Users\Yikai\Documents\Fundamentals of Programing (Y1S1)\1 Code\Topic_2\Topic2picture one.HEIC
+// Check the code to understand
+++var 
+var++
+--var
+var--
+
+Comparison Operators(like python) 
+< less than
+> greater than
+<= less than or equal 
+>= greater than or equal 
+== equal 
+!= not equal
+
+Boolean Operators (Logic Gates) #2.4
+! not
+&& and
+|| or
+
+Conversion of data Types
+taking DT as datatype
+use "parseDT"
+e.g parseInt
+
+Operator Prescedence
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_precedence
+
+Math Functions
+console.log(Math.round(1.115)) // round to nearest int
+console.log(Math.floor(1.115)) // round to the floor
+console.log(Math.ceil(1.115)) // round to the ceiling
+
+Auto Conversion
+JS will auto convert when
+a. the str is only numbers
+b. the thing that you are doing is -,/,*
+
+JS will not auto convert when
+a. + as concat
+
+so how to add str buut make it digit? (Typecasting from python)
+- parseFloat (Preserves the float)
+- parseInt (Auto Round the Var)
+- Number() (More universal)
+
+Typecast to string.
+- String()
+
+  

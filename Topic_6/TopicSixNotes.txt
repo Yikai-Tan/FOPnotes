@@ -1,0 +1,3 @@
+Arry is very self explanatory js look at code. thx
+
+adding items to array can use push

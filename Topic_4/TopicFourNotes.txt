@@ -1,0 +1,6 @@
+If the if else statement is only one line dont have to put {} #4.1
+
+Like python can do nested if statements #4.2
+
+Switch is like a multi select module #4.3
+if need more than one line, use break to break.

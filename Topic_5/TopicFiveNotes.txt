@@ -1,0 +1,11 @@
+for loop 
+
+mind the syntax. 
+e.g 
+
+for (let i = 0; i < 2; i++){
+    console.log(`this is a loop that prints this statement twice.`)
+
+}
+
+Check the code file for more info. #5.1

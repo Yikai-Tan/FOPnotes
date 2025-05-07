@@ -1,0 +1,67 @@
+----------------------------------- Lesson 1 -----------------------------------
+
+Python --> JavaScript
+
+Printing	print()		console.log();
+String		''		    ''
+Variable                let
+
+Hotkeys for Code.exe
+
+ctrl + /  --> Instantly comment entire line
+alt + shift + a   --> Makes a comment structure
+
+Escape Sequences (\)    #ES (1.1)
+\ means escape for JS
+\b is backspace
+\t is tab
+\n is newline
+\\ to insert a '\' in a str
+\r carriage  return (Slaps everything after it right to the front of the ''print'' and **** Overwrites the char that was at the start)
+
+----------------------------------- Lesson 2 -----------------------------------
+
+like Python there are reserved words in JS (https://www.w3schools.com/js/js_reserved.asp)
+
+Variable are containers, You can declare multipe vars in the same let with commas.
+
+Variables (Identifiers) #Identifiers (2.1)
+No's 
+- Cannot start with digit / reserved words / special signs
+- No spaces in the variable
+
+Yes
+- Start with Letter / _ (Underscore) / $ (Dollar Sign)
+    Not inclusive of the '/'
+- Can be any length. (Like Python)
+- Try to have a connection to the meaning of the var (For ease of redability)
+
+You can declare and initalise in the same line. ( Refer to #V.RI(2.11) )
+
+'+' is called concat (concatanate)
+',' will not change the other data types to str (NOT LIKE PYTHON TAKE NOTE)
+**** SO can kinda use '+' when necessary.
+
+Differences between var and let
+var                     let
+- yes redeclaration      - no redeclaration
+- Does not 'chope'       - Essentiallys 'chope' the variable
+- Global Declaration     - Local Declaration                     ( Refer to #V.RI(2.12)) )
+
+Difference between const and let ( Refer to #V.RI(2.13) )
+const                   let
+- constant               - Can change value (Re-Declare)
+
+Subsitution Model #2.2
+Like python u can add int to each other with '+'                 ( Refer to #2.21)
+When string it concat rather than add
+
+
+
+Naming Conventions
+Snake
+e.g ( many_names )
+
+camel
+e.g( manyNames ) --> SP uses this Naming Convention *********
+

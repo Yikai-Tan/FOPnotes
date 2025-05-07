@@ -1,0 +1,2 @@
+U liget just combine the function, array and object (dictionary)
+u use arr with dictionaries so that they can have keys look at code to understand easier.

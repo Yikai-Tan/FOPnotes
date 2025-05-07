@@ -1,0 +1,10 @@
+Refer to this website for more info
+https://www.w3schools.com/js/js_object_definition.asp
+
+to delete use 
+delete dictionaryname.key
+
+to add
+dictionaryname.key = value
+
+u can have functions in the dictionaries but have to use this.key #8.2
