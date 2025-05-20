@@ -5,6 +5,9 @@ console.log(animalList[0])
 
 let animallisttwo = ['Leopard', 12, 'Puma', 15,"corn"]
 
+let a1 = new Array();
+a1 = ["apple","banana","Cheries"];
+console.log(a1)
 //this just prints the elements in the array one by one
 for (let x =0; x < animallisttwo.length; x++){
     console.log(animallisttwo[x])
