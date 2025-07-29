@@ -37,3 +37,13 @@ function calculator(examplearr){
 }
 reactarr(examplearr)
 calculator(examplearr)
+
+/* Checking if something is already in an array */
+things = ['apple','orange']
+object ={apple:100}
+if(things[0] in object){
+    console.log(object[things[0]]) /* It will output since its inside */
+}
+if(things[2] in object){
+    console.log(object[things[0]]) /* It will NOT output since its inside */
+}
