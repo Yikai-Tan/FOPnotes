@@ -47,3 +47,25 @@ if(things[0] in object){
 if(things[2] in object){
     console.log(object[things[0]]) /* It will NOT output since its inside */
 }
+
+/* Can do something like this for the for loop  */
+function mergeByKey(obj1, obj2)  {
+    finalobj = {}
+    for(const key in obj1){
+        if(key in finalobj){
+            finalobj[key].push(obj1[key])
+        }
+        else{
+            finalobj[key]=[obj1[key]]
+        }
+    }
+    for(const key in obj2){
+        if(key in finalobj){
+            finalobj[key].push(obj2[key])
+        }
+        else{
+            finalobj[key]=[obj2[key]]
+        }
+    }
+    return finalobj
+}
